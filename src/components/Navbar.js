@@ -31,6 +31,7 @@ class BNavbar extends Component {
             </Button>
           </Form>
         </Navbar>
+        <br />
       </Container>
     );
   }
